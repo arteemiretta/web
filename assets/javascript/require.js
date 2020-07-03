@@ -1,6 +1,6 @@
 function who() {
     Swal.fire({
-        icon: 'Info',
+        icon: 'info',
         title: '¿Quienes somos?',
         text: 'Arte Emiretta es una panadería...   Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, illo? Reprehenderit iste, consequatur cumque officia nesciunt sed, minus aliquam sint obcaecati labore dolore animi minima nisi nihil illum similique nemo.',
         footer: '<p>Gracias por preferirnos</p>'
